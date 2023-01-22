@@ -2,7 +2,7 @@
 All the C code in one place.
 
 ## RULES ⚠️
-* Add the source files [eg. main.c or any files ending wiht .c extention] in the src folder.
+* Add the source files [eg. main.c or any files ending with .c extention] in the src folder.
 * Add the photo of that code from your notebook.
 * Add that photo to the Screenshot folder.
 * Write all the details of the variables used in that code in a markdown file.
